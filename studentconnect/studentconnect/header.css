@@ -1,0 +1,42 @@
+#header
+{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    position:absolute;
+    top:0px;
+    left:0px;
+    right:0px;
+}
+#middleheader {
+	height: 204px;
+	margin: auto;
+        position:absolute;
+	padding-left:300px;
+        padding-right:0px;
+        width: auto;
+} 
+#leftheader{
+	float: left;
+        position:absolute;
+        left:0px;
+        top:0px;
+        width: auto;
+        
+}
+#rightheader {
+	float: right;
+	padding-left:50px;
+        right:0px;
+        top:20px;
+        position:absolute;
+        width:auto;
+        
+}
+img {
+	border: none;
+}
+body {
+	margin: 0px;
+	padding-top:200px;
+}

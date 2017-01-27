@@ -1,0 +1,148 @@
+/*****************************************************/
+/****General****/
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	background: url('images/background.jpg');
+	padding-left:10%;
+	padding-right:10%;
+	font-family:Arial, Geneva, sans-serif;
+}
+img, table, tr, td
+{
+	border:0px;
+}
+h1
+{
+	text-align:center;
+	margin:0px;
+	padding:0px;
+}
+.button
+{
+	padding:5px 15px;
+	vertical-align:top;
+	border:1px solid #aaaaaa;
+	font-weight:bold;
+	background:url('images/button.png') repeat-x;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:10px;
+	display:inline-block;
+}
+table
+{
+	border-spacing:0px;
+	background:#ffffff;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	padding:0px;
+	width:95%;
+	margin:5px auto 5px auto;
+}
+tr
+{
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	margin:0px;
+}
+td, th
+{
+	margin:0px;
+	border:0px;
+	padding:3px;
+	text-align:center;
+}
+#wrapper{
+border:solid 2px #b7ddf2;
+background:#ebf4fb;
+width: 1000px;
+margin: auto;
+min-height:280px;
+padding-top:50px;
+ }
+
+#form{margin-top: 10%;
+margin-left: auto;}
+/*****************************************************/
+/****Blocks****/
+.hyperlinks
+{
+	/*background:url('images/bluec_30p.png');*/
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	margin:auto;
+	padding:5px;
+	margin-bottom:15px;
+}
+#infobox
+{
+	/*background:url('images/black_40p.png');*/
+	width:360px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	margin:auto;
+	padding:100px 100px;
+	margin-top:20px;
+	color:#ffffff;
+}
+.author th
+{
+	width:150px;
+	border-right:1px solid #cccccc;
+        border-bottom:1px solid #cccccc;
+}
+.author td
+{
+	width:750px;
+        border-bottom:1px solid #cccccc;
+}
+.displayforum
+{
+    background-color:#FFFFFF;
+}
+.replydisplay td
+{
+    border-top:1px solid #cccccc;
+    border-right:1px solid #cccccc;
+    width:150px;
+ }
+ #content
+ {
+     position: fixed;
+     width: 1000px;
+ }
+ #viewtopic
+ {
+    padding-top:0px;
+    min-height: 600px;
+    width: 95%;
+    left: 2.5%;
+    right: 2.5%;
+    position: absolute;
+ }
+ #messagetable
+{
+	vertical-align:top;
+        padding-top:5px;
+        position: fixed;
+}
+#viewopportunity
+{
+    left: 2.5%;
+    right: 2.5%;
+    width: 95%;
+}
+#rd
+{
+    background-color: white;
+}
+	
